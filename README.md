@@ -3,10 +3,6 @@
 ## Overview
 This project demonstrates the implementation of the K-Means clustering algorithm for image segmentation. The algorithm segments an image into distinct regions based on color similarity.
 
-## Example For K = 16
-![Original Gaming Scene](images/spidey2_01.jpg)
-![Segmented Gaming Scene](images/segmented_k16_0.jpg)
-
 ## Features
 - Converts images from BGR to RGB format
 - Reshapes images into 2D arrays of pixels
