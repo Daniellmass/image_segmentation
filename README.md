@@ -10,6 +10,10 @@ This project demonstrates the implementation of the K-Means clustering algorithm
 - Segments images into a specified number of color clusters
 - Displays the original and segmented images
 
+## Example For K = 16
+![Original Gaming Scene](images/spidey2_01.jpg)
+![Segmented Gaming Scene](images/segmented_k16_0.jpg)
+
 ## Requirements
 - Python 3.x
 - Numpy
